@@ -43,7 +43,7 @@ jobs:
 
     - name: Install and Build
       run: |
-        cd ponderada1
+        cd ..
         npm install
         npm run build
         mv build ../build
