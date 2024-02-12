@@ -23,7 +23,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 18
-
+      - name: Enter folder
+        run: cd docs
       - name: Install dependencies
         run: npm ci
       - name: Build website
