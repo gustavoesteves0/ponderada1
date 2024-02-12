@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: /
+slug: gustavoesteves0.github.io
 ---
 
 # Gustavo Machado Esteves
