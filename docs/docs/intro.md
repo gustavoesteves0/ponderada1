@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: /ponderada1/
+slug: /
 ---
 
 # Gustavo Machado Esteves
