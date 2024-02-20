@@ -4,7 +4,7 @@ slug: /
 ---
 
 # Introdução e Contato
-**Gustavo Machado Esteves**</br>
+**Gustavo Machado Esteves**  
 Estudante de **Engenharia da Computação**.
 
 ## Educação
