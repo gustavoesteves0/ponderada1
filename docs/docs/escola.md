@@ -1,6 +1,6 @@
 # Colégio Santo Agostinho - Belo Horizonte
 
-##### Ensino básico, fundamental e médio.
+## Ensino Básico, Ensino Fundamental e Ensino Médio.
 
 Estudei no Colégio Santo Agostinho de fevereiro de 2009 até dezembro de 2022. Foi onde estudei dos meus quatro anos de idade até os dezoito e também onde tive a oportunidade de me formar.
 
