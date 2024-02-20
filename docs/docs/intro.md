@@ -7,14 +7,9 @@ slug: /
 **Gustavo Machado Esteves**  
 Estudante de **Engenharia da Computação**.
 
-## Educação
+## Sobre mim
 
-- **Colégio Santo Agostinho,** Belo Horizonte  — Estudante
-    ###### Fevereiro de 2009 - Dezembro de 2022 
-- **High School Canadá,** Belo Horizonte — Estudante
-    ###### Fevereiro de 2020 - Dezembro de 2022
-- **Instituto de Tecnologia e Liderança,** São Paulo — Estudante
-    ###### Janeiro de 2023 - Atualmente
+Nascido em Belo Horizonte, posso me definir como alguém apaixonado por tecnologia desde a infância. 
 
 ### Contato
 
