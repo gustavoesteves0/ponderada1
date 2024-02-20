@@ -3,8 +3,8 @@ sidebar_position: 1
 slug: /
 ---
 
-# Gustavo Machado Esteves
-
+# Introdução e Contato
+**Gustavo Machado Esteves**
 Estudante de **Engenharia da Computação**.
 
 ## Educação
