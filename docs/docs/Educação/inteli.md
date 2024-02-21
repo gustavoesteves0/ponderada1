@@ -33,3 +33,11 @@ Respositório no Github:
 O projeto tem como objetivo a automação da montagem de carrinhos de parada. Trata-se do desenvolvimento de uma interface UI para a seleção dos diferentes layouts e a montagem, além da programação do braço mecânico responsável por realizar a tarefa.  O projeto foi desenvolvido em Python utilizando a biblioteca pydobot.
 
 Repositório no Github:
+
+## Atlética Tantera
+
+Fundador da Atlética e Diretor de e-Sports. A equipe da Atlética se volta para a realização de eventos para a integração dos alunos na faculdade. Fundada em janeiro de 2023, a Tantera já promoveu alguns eventos, os quais contaram com a participação dos seus membros na organização do evento tanto previamente quanto durante o seu acontecimento. Alguns dos eventos estão abaixo: 
+
+### Copa Inteli - Campeonato Interno de Futebol
+
+A Copa Inteli aconteceu durante o mês de maio de 2023 
