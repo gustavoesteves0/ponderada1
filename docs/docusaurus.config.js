@@ -74,7 +74,7 @@ const config = {
             label: 'Gustavo Machado Esteves',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/gustavoesteves0',
             label: 'GitHub',
             position: 'right',
           },
