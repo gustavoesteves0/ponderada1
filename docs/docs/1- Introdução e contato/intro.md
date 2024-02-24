@@ -4,7 +4,9 @@ slug: /
 ---
 
 # Introdução
-![Foto do autor](../../static/img/Gustavo-Esteves.png)  
+<div style="text-align:center">
+    <img src="../../static/img/Gustavo-Esteves.png" alt="Foto do autor">
+</div>
 **Gustavo Machado Esteves**  
 Estudante de **Engenharia da Computação**.
 
