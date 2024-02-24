@@ -4,7 +4,7 @@ slug: /
 ---
 
 # Introdução
-[](https://media.licdn.com/dms/image/D4D03AQGRBGd3mca65w/profile-displayphoto-shrink_800_800/0/1680902358908?e=1714003200&v=beta&t=_AmAvqQ7iH7JWe9PCrae3rOsVjSI7_8EWtj8Pryqv18)
+[Foto](Foto-Gutavo-Esteves.jpg)
 **Gustavo Machado Esteves**  
 Estudante de **Engenharia da Computação**.
 
