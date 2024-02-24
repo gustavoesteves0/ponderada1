@@ -4,7 +4,7 @@ slug: /
 ---
 
 # Introdução
-![Foto do autor](../../static/img/Foto-Gustavo-Esteves.jpg)
+![Foto do autor](../../static/img/Foto-Gustavo-Esteves.jpg/600/400)
 **Gustavo Machado Esteves**  
 Estudante de **Engenharia da Computação**.
 
