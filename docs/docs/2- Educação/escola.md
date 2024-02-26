@@ -9,6 +9,6 @@ Estudei no Colégio Santo Agostinho de fevereiro de 2009 até dezembro de 2022. 
 ## High School Canadá - Belo Horizonte
 
 Formado no programa de High School canadense oferecido pelo Colégio Santo Agostinho. O programa teve início em fevereiro de 2020 e término em dezembro de 2022 e é reconhecido pelas instituições na imagem abaixo. Para acessar a página do programa, clique [aqui.](https://bh.santoagostinho.com.br/programa/canadian-high-school)  
-[Mount Allison University](../../static/img/universidade-1.png)
-[University of New Brunswick](../../static/img/universidade-2.png)
-[University of Minnesota](../../static/img/universidade-3.png)
+![Mount Allison University](../../static/img/universidade-1.png)
+![University of New Brunswick](../../static/img/universidade-2.png)
+![University of Minnesota](../../static/img/universidade-3.png)
